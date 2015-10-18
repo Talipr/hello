@@ -1,1 +1,1 @@
-print "hi Yam!!"
+print "hi Yam!! <3"
